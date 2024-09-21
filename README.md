@@ -5,9 +5,8 @@
 
 - 📫 How to reach me **sanvsl2004@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Profiles</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amrutha-saladi-b3103524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrutha-saladi-b3103524a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amrutha2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amrutha2004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amrutha1023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amrutha1023" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/218w1aqtx9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="218w1aqtx9" height="30" width="40" /></a>
